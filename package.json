@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^11.5.2",
+    "typescript": "^5.9.2"
+  }
+}
