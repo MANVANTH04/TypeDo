@@ -1,0 +1,6 @@
+# adding all the js files 
+
+
+*.js
+dist/
+
